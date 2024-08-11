@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, DSA and Web Development.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking for guidance and small projects.
-- 📫 Contact - Gmail:- 
+- 📫 Contact - Gmail:- work.krish955@gmail.com
 - 😄 HammerTime
 
 
