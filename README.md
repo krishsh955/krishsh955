@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @krishsh955
-- 👀 I’m interested in Java, DSA and Web Development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking for guidance and small projects.
-- 📫 Contact - Gmail:- work.krish955@gmail.com
+- 👋 Hi, I’m Krish Sharma
+- 🔥I am interested in DSA and Open source.
+- 📫 Contact - work.krish955@gmail.com
 - 😄 HammerTime
 
 
